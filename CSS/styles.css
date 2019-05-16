@@ -139,6 +139,10 @@ width: 90%;
   padding-top: 20px;
 }
 
+.footer-nav{
+  display:none;
+}
+
 /*Media Quaries*/
 
 @media screen and (min-width: 768px) {
